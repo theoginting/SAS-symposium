@@ -1,0 +1,31 @@
+Bureau of Justice Statistics,,,,,,,,
+Filename: jeee16t01.csv,,,,,,,,
+"Table 1. Percent distribution of expenditure for the justice system by type of government, fiscal 2016",,,,,,,,
+"Report title: Justice Expenditure and Employment Extracts 2016, Preliminary  NCJ 254126",,,,,,,,
+Data source: Justice Expenditure and Employment Extracts Program (JEEE),,,,,,,,
+"Author: Shelley Hyland, Ph.D., BJS Statistician",,,,,,,,
+Refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,,
+Date of version: 11/07/2019,,,,,,,,
+,,,,,,,,
+"Table 1. Percent distribution of expenditure for the justice system by type of government, fiscal 2016",,,,,,,,
+(Payroll amounts in thousands of dollars),,,,,,,,
+,,,,,,,,
+,Amount (thousands of dollars),,,,,Percent distribution,,
+Activity,All governments/a,Federal government,State governments,Local governments,,Federal government,State governments,Local governments
+Total justice system,295618717,55768000,92500365,147350352,,-,-,-
+Direct expenditure,284213760,50730000,86868791,146614969,,17.8,30.6,51.6
+Intergovernmental expenditure,-,5038000,5631574,735383,,-,-,-
+,,,,,,,,
+Police protection,142450723,31754671,16479609,94216443,,-,-,-
+Direct expenditure,138096078,28886000,15003016,94207062,,20.9,10.9,68.2
+Intergovernmental expenditure,-,2868671,1476593,9381,,-,-,-
+,,,,,,,,
+Judicial and legal,64681484,16370926,24184793,24125765,,-,-,-
+Direct expenditure,61148957,14892000,22825679,23431278,,24.4,37.3,38.3
+Intergovernmental expenditure,-,1478926,1359114,694487,,-,-,-
+,,,,,,,,
+Corrections,88486511,7642404,51835963,29008144,,-,-,-
+Direct expenditure,84968725,6952000,49040096,28976629,,8.2,57.7,34.1
+Intergovernmental expenditure,-,690404,2795867,31515,,-,-,-
+"Notes: Local government data are estimates subject to sampling variability. Federal Government data are for the fiscal period beginning October 1, 2015 and ending September 30, 2016.",,,,,,,,
+"a/The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts. This was done to avoid the artificial inflation that would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) expended the amount. The intergovernmental expenditure lines are not totaled for the same reason.",,,,,,,,
